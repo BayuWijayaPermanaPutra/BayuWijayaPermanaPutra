@@ -4,7 +4,7 @@ I'm **Bayu Wijaya Permana Putra**, a ✨ **Mobile Application Developer** ✨ fr
 Have a passion in software development and skills in Android Development, iOS Development and Flutter Development. 
 Now I'm work and develop my passion to do research and development at MNC Innovation Center, digital division of <a href="https://www.mncgroup.com/" target="_blank">MNC Group</a>.
 
-- 🌱 I'm currently learning about stocks, blockchain & cryptocurrency.
+- 🌱 Apart from learning about software development, I'm also learning about stocks, blockchain & cryptocurrencies.
 - 👯 I’m looking to collaborate.
 - 💬 Ask me anything about Mobile Application Development.
 - 📫 How to reach me? Just send an email to bayu_wpp@programmer.net
